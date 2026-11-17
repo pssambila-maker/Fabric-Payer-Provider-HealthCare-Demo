@@ -44,7 +44,7 @@ print("=" * 60)
 # -- Config -----------------------------------------------------------
 ONTOLOGY_NAME = "Healthcare_Demo_Ontology_HLS"
 GRAPH_MODEL_NAME = "Healthcare_Demo_Graph"
-GITHUB_OWNER = "rasgiza"
+GITHUB_OWNER = "pssambila-maker"
 GITHUB_REPO = "Fabric-Payer-Provider-HealthCare-Demo"
 GITHUB_BRANCH = "main"
 

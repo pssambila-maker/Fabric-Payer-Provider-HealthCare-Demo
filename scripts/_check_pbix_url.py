@@ -1,5 +1,5 @@
 import requests
-url = "https://raw.githubusercontent.com/rasgiza/Fabric-Payer-Provider-HealthCare-Demo/main/workspace/Healthcare_Analytics_Dashboard.pbix"
+url = "https://raw.githubusercontent.com/pssambila-maker/Fabric-Payer-Provider-HealthCare-Demo/main/workspace/Healthcare_Analytics_Dashboard.pbix"
 r = requests.head(url)
 print(f"GitHub raw URL status: {r.status_code}")
 print(f"Content-Length: {r.headers.get('Content-Length', '?')}")

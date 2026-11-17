@@ -7,7 +7,7 @@
 # ============================================================================
 
 github:
-  repo_owner: kwame-one
+  repo_owner: pssambila-maker
   repo_name: Fabric-Payer-Provider-HealthCare-Demo
   branch: main
   workspace_folder: workspace

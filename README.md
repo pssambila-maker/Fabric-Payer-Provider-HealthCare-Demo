@@ -99,7 +99,7 @@ configuration cell only when you need to change behavior.
 
 | Setting | Default | Use it to |
 |---|---|---|
-| `GITHUB_OWNER` | `rasgiza` | Deploy from a fork or another owner |
+| `GITHUB_OWNER` | `pssambila-maker` | Deploy from a fork or another owner |
 | `GITHUB_REPO` | `Fabric-Payer-Provider-HealthCare-Demo` | Select a different repository |
 | `GITHUB_BRANCH` | `main` | Test a feature or release branch |
 | `GENERATE_DATA` | `True` | Generate a fresh synthetic dataset |
